@@ -1,0 +1,8 @@
+Create a dataset from your parametric model on grasshopper:
+
+Steps:
+1. Copy the python script as a component in grasshopper.
+2. The input of the component is the geometry to be exported.
+3. Edit the script based on the naming of the dataset preferred
+4. Use Colibri to iterate over hte designs. (TIP: use multiple number sliders to filter designs/ select sampled designs fro the design space)
+Please refer to Colibri documentation in order to automatically iterate over number sliders in grashopper.
