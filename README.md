@@ -6,5 +6,5 @@ This repository is dedicated to workflow data accompanying my graduation project
 This workflow is developed for an efficient exchange of data between platforms grasshopper and ANSYS which allows for parametric Finite Element Analysis. Kindly go through Ansys Mechanical API documentation in order to tune the provided python scripts for your project.
 
 
-MSc Graduation Project 2024-25 | Swornava Guha
+MSc Graduation Project 2024-25 | Swornava Guha  |  
 Mentors- Dr.ir. F.Oikonomopoulou, Dr. Charalampos Andriotis
